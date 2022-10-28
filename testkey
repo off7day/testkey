@@ -2,8 +2,8 @@
 [Key]123456a[/Key] 'yes' = end
 [Content]Hết hạn sử dụng[/Content]
 ###############################################
-[pathsavelogin1]C:\Windows\data\com.toolabc.xyz\file\a\[/pathsavelogin1]=C:\Toolresconf\key\
-[pathlogin1]C:\Windows\data\com.toolabc.xyz\file\a\a.txt[/pathlogin1]=C:\Toolresconf\key\key.txt
+[pathsavelogin1]C:\Toolresconf\key\[/pathsavelogin1]=C:\Toolresconf\key\
+[pathlogin1]C:\Toolresconf\key\key.txt[/pathlogin1]=C:\Toolresconf\key\key.txt
 [keylogin1]'B@uN^Y[yD`xMC~o&wBECWTyQ@5ffljJ9wF_/Zz,P%%~v/SL4=<=<2/LI|1Rf&K[/keylogin1]
 #2
 [pathlogin2]C:\Windows\data\com.toolabc.xyz\file\a\a.txt[/pathlogin2]#Cố định
