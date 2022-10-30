@@ -9,3 +9,13 @@
 [pathlogin2]C:\Windows\data\com.toolabc.xyz\file\a\a.txt[/pathlogin2]#Cố định
 [keylogin2]'B@uN^Y[yD`xMC~o&wBECWTyQ@5ffljJ9wF_/Zz,P%%~v/SL4=<=<2/LI|1Rf&K[/keylogin2]#Cố định
 [notkey1]Thiết bị chưa được cấp quyền![/notkey1]
+#text&ui
+[nguontool]Thiết bị chưa được cấp quyền![/nguontool]
+[noidungtool]Thiết bị chưa được cấp quyền![/noidungtool]
+#noidung
+#tim      [xuyenmaybanhang]Thiết bị chưa được cấp quyền![/xuyenmaybanhang]
+#thaythe  [xuyenmaybanhangon]Thiết bị chưa được cấp quyền![/xuyenmaybanhangon]
+#tim      [xuyenthinhlon]Thiết bị chưa được cấp quyền![/xuyenthinhlon]
+#thaythe  [xuyenthinhlonon]Thiết bị chưa được cấp quyền![/xuyenthinhlonon]
+#tim      [xuyenthinhnho]Thiết bị chưa được cấp quyền![/xuyenthinhnho]
+#thaythe  [xuyenthinhnhoon]Thiết bị chưa được cấp quyền![/xuyenthinhnhoon]
